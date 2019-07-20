@@ -15,6 +15,14 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## How to Run
+- Clone or Download this repo
+- Extract the files on your local machine
+- Open VS code or Android Studio
+- Make sure all the neccessary plugins should be installed related to Dart and Flutter support.
+- Launch the application with any virtual device emulator from android studio or connect your physical device through USB allowing USB debugging.
+
+
 - First activity shows the sentences with random words generated in a list which can be liked.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/25079911/61583046-4aab8980-ab50-11e9-947d-a4b46ba9ba5b.jpg" width="256" height="500">
