@@ -28,7 +28,7 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://user-images.githubusercontent.com/25079911/61583046-4aab8980-ab50-11e9-947d-a4b46ba9ba5b.jpg" width="256" height="500">
 </p>
 
-- Second Activity contains all the liked senetences in it.
+- Second Activity contains all the liked sentences in it.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/25079911/61583201-61eb7680-ab52-11e9-9edd-6b9f0887b9ef.jpg" width="256" height="500">
 </p>
